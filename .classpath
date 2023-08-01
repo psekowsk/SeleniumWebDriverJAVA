@@ -14,5 +14,22 @@
 	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/selenium-jar/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/selenium-jar/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/selenium-jar/libs/commons-io-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/com.beust.jcommander.source_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/com.beust.jcommander_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/com.google.guava_21.0.0.v20170206-1425.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.testng.eclipse.maven_7.4.0.202106051955.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.testng.eclipse_7.4.0.202106051955.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.testng_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.webjars.jquery.source_3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.webjars.jquery_3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.yaml.snakeyaml.source_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/org.yaml.snakeyaml_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/slf4j-api-2.0.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/slf4j-api-2.0.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/psekowsk/Desktop/JAVA projects/Resources/testng/slf4j-simple-2.0.7-javadoc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
