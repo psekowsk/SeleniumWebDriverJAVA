@@ -29,7 +29,6 @@
     <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
     <fullyQualifiedTypeName name="org.testng.ITestResult"/>
     <fullyQualifiedTypeName name="Section11.L17_ITestListener"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.Listeners"/>
     <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
@@ -40,9 +39,12 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
     <fullyQualifiedTypeName name="PageObjects.TestStoreLoginPage"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="base.BasePage"/>
+    <fullyQualifiedTypeName name="resources.Listeners"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Listeners"/>
 </qualifiedTypeNameHistroy>

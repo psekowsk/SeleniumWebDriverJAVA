@@ -1,9 +1,0 @@
-package PageObjects;
-
-public class TestStoreLoginPage {
-	WebDriver driver;
-	
-	public TestStoreLoginPage(WebDriver driver) {
-		this.driver = driver;
-	}
-}

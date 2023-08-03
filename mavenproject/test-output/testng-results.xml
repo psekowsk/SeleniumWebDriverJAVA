@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-02T14:52:55 CEST" name="Suite" finished-at="2023-08-02T14:52:55 CEST" duration-ms="291">
+  <suite started-at="2023-08-03T09:46:32 CEST" name="Suite" finished-at="2023-08-03T09:46:33 CEST" duration-ms="76">
     <groups>
     </groups>
-    <test started-at="2023-08-02T14:52:55 CEST" name="Test" finished-at="2023-08-02T14:52:55 CEST" duration-ms="291">
+    <test started-at="2023-08-03T09:46:32 CEST" name="Test" finished-at="2023-08-03T09:46:33 CEST" duration-ms="76">
       <class name="uk.co.automationtesting.mavenproject.L07_Surefire">
-        <test-method signature="testng()[pri:0, instance:uk.co.automationtesting.mavenproject.L07_Surefire@120f102b]" started-at="2023-08-02T14:52:55 CEST" name="testng" finished-at="2023-08-02T14:52:55 CEST" duration-ms="50" status="PASS">
+        <test-method signature="testng()[pri:0, instance:uk.co.automationtesting.mavenproject.L07_Surefire@120f102b]" started-at="2023-08-03T09:46:33 CEST" name="testng" finished-at="2023-08-03T09:46:33 CEST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testng -->
