@@ -1,0 +1,19 @@
+package Section07;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class L21c_ThreadExtend extends Thread {
+	public static void main(String[] args) {
+		L21c_ThreadExtend thread = new L21c_ThreadExtend();
+		Thread threadObject = new Thread(thread);
+		threadObject.start();
+		
+		System.out.println("Outside of a thread");
+	}
+	
+	public void run() {
+		System.out.println("Inside of a thread");
+	}
+}
