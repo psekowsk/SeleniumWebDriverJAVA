@@ -1,0 +1,17 @@
+package Section11;
+
+import org.testng.annotations.Test;
+import org.slf4j.*;
+
+public class L02_TestngInstall {
+	
+	@Test
+	public void helloWorld() {
+		System.out.println("Hello World!");
+	}
+	
+	@Test
+	public void helloWorld2() {
+		System.out.println("Hello World!");
+	}
+}

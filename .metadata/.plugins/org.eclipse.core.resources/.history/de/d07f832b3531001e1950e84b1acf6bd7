@@ -1,0 +1,15 @@
+package PageObjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class TestStoreLoginPage {
+	WebDriver driver;
+	
+	public TestStoreLoginPage(WebDriver driver) {
+		this.driver = driver;
+	}
+	
+	By email = By.cssSelector("");
+	By password = By.cssSelector("");
+	By log = By.cssSelector("");
+}

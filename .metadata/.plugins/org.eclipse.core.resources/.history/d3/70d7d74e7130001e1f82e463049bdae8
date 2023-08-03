@@ -1,0 +1,27 @@
+package Section11;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+
+public class L13_dependsOnMethods {
+	
+	WebDriver driver;
+	
+	@BeforeSuite
+	public void setup() throws InterruptedException {
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\psekowsk\\Desktop\\JAVA projects\\Resources\\driver\\chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Thread.sleep(2000);
+	}
+	
+	@AfterSuite
+	public void end() {
+		driver.close();
+		driver.quit();
+	}
+}

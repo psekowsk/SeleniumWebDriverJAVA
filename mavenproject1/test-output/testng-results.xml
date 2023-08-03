@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T09:06:14 CEST" name="Suite" finished-at="2023-08-03T09:06:43 CEST" duration-ms="29070">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T09:06:14 CEST" name="Test" finished-at="2023-08-03T09:06:27 CEST" duration-ms="12655">
+      <class name="co.uk.automationtesting.mavenproject1.AddRemoveItemBasketTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:co.uk.automationtesting.mavenproject1.AddRemoveItemBasketTest@25084a1e]" started-at="2023-08-03T09:06:14 CEST" name="setup" finished-at="2023-08-03T09:06:18 CEST" duration-ms="4427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addRemoveItem()[pri:0, instance:co.uk.automationtesting.mavenproject1.AddRemoveItemBasketTest@25084a1e]" started-at="2023-08-03T09:06:18 CEST" name="addRemoveItem" finished-at="2023-08-03T09:06:26 CEST" duration-ms="7868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRemoveItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:co.uk.automationtesting.mavenproject1.AddRemoveItemBasketTest@25084a1e]" started-at="2023-08-03T09:06:26 CEST" name="tearDown" finished-at="2023-08-03T09:06:27 CEST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.uk.automationtesting.mavenproject1.AddRemoveItemBasketTest -->
+    </test> <!-- Test -->
+    <test started-at="2023-08-03T09:06:27 CEST" name="Test2" finished-at="2023-08-03T09:06:43 CEST" duration-ms="16312">
+      <class name="co.uk.automationtesting.mavenproject1.OrderCompleteTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:co.uk.automationtesting.mavenproject1.OrderCompleteTest@7c711375]" started-at="2023-08-03T09:06:27 CEST" name="setup" finished-at="2023-08-03T09:06:32 CEST" duration-ms="4900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="endToEndTest()[pri:0, instance:co.uk.automationtesting.mavenproject1.OrderCompleteTest@7c711375]" started-at="2023-08-03T09:06:32 CEST" name="endToEndTest" finished-at="2023-08-03T09:06:43 CEST" duration-ms="11099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:co.uk.automationtesting.mavenproject1.OrderCompleteTest@7c711375]" started-at="2023-08-03T09:06:43 CEST" name="tearDown" finished-at="2023-08-03T09:06:43 CEST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.uk.automationtesting.mavenproject1.OrderCompleteTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
