@@ -182,3 +182,437 @@ java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\co
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 55344 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
 java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar org.testng.remote.RemoteTestNG -serport 55344 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+!SESSION 2023-08-04 12:12:47.511 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-08-04 12:12:49.214
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-08-04 12:13:10.000
+!MESSAGE Logback config file: C:\Users\psekowsk\Desktop\JAVA projects\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.200.20230523-2106.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-08-04 12:13:13.245
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-08-04 12:13:13.245
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-04 12:13:20.593
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\psekowsk'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2023-08-04 12:13:40.338
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50492 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar org.testng.remote.RemoteTestNG -serport 50492 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2023-08-04 12:16:24.598
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50508 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar org.testng.remote.RemoteTestNG -serport 50508 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2023-08-04 12:32:30.602
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50762 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\target\classes:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-api-2.0.7-tests.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\slf4j-simple-2.0.7-javadoc.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander.source_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.beust.jcommander_1.78.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\com.google.guava_21.0.0.v20170206-1425.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse.maven_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.eclipse_7.4.0.202106051955.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng.source_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.testng_7.4.0.r202105021533.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery.source_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.webjars.jquery_3.5.1.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml.source_1.21.0.jar:C:\Users\psekowsk\Desktop\JAVA projects\Resources\testng\org.yaml.snakeyaml_1.21.0.jar:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar org.testng.remote.RemoteTestNG -serport 50762 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\mavenproject1\testng.xml
+!SESSION 2023-08-04 12:37:46.456 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-08-04 12:37:49.730
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 4 567 2023-08-04 12:37:55.494
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2023-08-04 12:37:55.495
+!MESSAGE Could not read metadata for 'mavenproject1'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/mavenproject1)[567]: java.lang.Exception: The project description file (.project) for 'mavenproject1' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:894)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:874)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:730)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1587)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2549)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2254)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:571)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:943)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:256)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:183)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:321)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:264)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:545)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:818)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:810)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1032)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:371)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:513)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:570)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:335)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:397)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:496)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2023-08-04 12:37:55.497
+!MESSAGE The project description file (.project) for 'mavenproject1' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'mavenproject1' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:894)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:874)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:730)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1587)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2549)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2254)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:571)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:943)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:256)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:183)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:321)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:264)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:545)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:818)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:810)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1032)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:371)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:513)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:570)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:335)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:397)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:496)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY ch.qos.logback.classic 1 0 2023-08-04 12:37:59.075
+!MESSAGE Logback config file: C:\Users\psekowsk\Desktop\JAVA projects\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.200.20230523-2106.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-08-04 12:38:04.587
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-08-04 12:38:04.587
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.testng.eclipse 4 4 2023-08-04 12:38:10.350
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): mavenproject1 does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2517)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-08-04 12:38:10.351
+!MESSAGE mavenproject1 does not exist
+
+!ENTRY org.testng.eclipse 4 4 2023-08-04 12:38:10.488
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): mavenproject1 does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2517)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-08-04 12:38:10.490
+!MESSAGE mavenproject1 does not exist
+
+!ENTRY org.testng.eclipse 4 4 2023-08-04 12:38:18.335
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): mavenproject1 does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2517)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-08-04 12:38:18.335
+!MESSAGE mavenproject1 does not exist
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-08-04 12:38:19.933
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\psekowsk'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 4 4 2023-08-04 12:38:21.751
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): mavenproject1 does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2504)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2444)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2517)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2023-08-04 12:38:21.752
+!MESSAGE mavenproject1 does not exist
+
+!ENTRY org.testng.eclipse 1 0 2023-08-04 12:40:15.763
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\test-classes C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\classes C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51104 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\testng.xml
+java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\classes:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar org.testng.remote.RemoteTestNG -serport 51104 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\testng.xml
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-08-04 13:09:38.222
+!MESSAGE Could not get hover region due to timeout after 1000 miliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:155)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-08-04 13:09:39.332
+!MESSAGE Could not get hover information due to timeout after 1000 miliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:76)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.testng.eclipse 1 0 2023-08-04 13:52:09.221
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\test-classes C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\classes C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar C:\Users\psekowsk\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar C:\Users\psekowsk\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar C:\Users\psekowsk\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar C:\Users\psekowsk\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar C:\Users\psekowsk\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar C:\Users\psekowsk\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53407 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\testng.xml
+java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\target\classes:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar:C:\Users\psekowsk\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar:C:\Users\psekowsk\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar:C:\Users\psekowsk\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar:C:\Users\psekowsk\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar:C:\Users\psekowsk\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar:C:\Users\psekowsk\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar org.testng.remote.RemoteTestNG -serport 53407 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\test-output C:\Users\psekowsk\Desktop\JAVA projects\liveproject1\testng.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-08-04 13:57:03.992
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: The request (id: 22, method: 'textDocument/completion') has been cancelled
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: The request (id: 22, method: 'textDocument/completion') has been cancelled
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:114)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:377)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: The request (id: 22, method: 'textDocument/completion') has been cancelled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:282)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.testng.eclipse 1 0 2023-08-04 14:09:40.043
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar C:\Users\psekowsk\Desktop\JAVA projects\liveproject2\target\test-classes C:\Users\psekowsk\Desktop\JAVA projects\liveproject2\target\classes C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar C:\Users\psekowsk\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar C:\Users\psekowsk\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar C:\Users\psekowsk\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar C:\Users\psekowsk\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar C:\Users\psekowsk\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar C:\Users\psekowsk\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar C:\Users\psekowsk\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar C:\Users\psekowsk\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar C:\Users\psekowsk\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar C:\Users\psekowsk\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar C:\Users\psekowsk\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar C:\Users\psekowsk\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar C:\Users\psekowsk\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar C:\Users\psekowsk\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53909 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\liveproject2\test-output C:\Users\psekowsk\AppData\Local\Temp\testng-eclipse-760196223\testng-customsuite.xml
+java -ea -classpath C:\Users\psekowsk\Desktop\JAVA projects\Resources\eclipse\configuration\org.eclipse.osgi\532\0\.cp\lib\testng-remote.jar:C:\Users\psekowsk\Desktop\JAVA projects\liveproject2\target\test-classes:C:\Users\psekowsk\Desktop\JAVA projects\liveproject2\target\classes:C:\Users\psekowsk\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\psekowsk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\psekowsk\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\psekowsk\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\psekowsk\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\psekowsk\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\psekowsk\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\psekowsk\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\psekowsk\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\psekowsk\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\psekowsk\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar:C:\Users\psekowsk\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\psekowsk\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar:C:\Users\psekowsk\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar:C:\Users\psekowsk\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar:C:\Users\psekowsk\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar:C:\Users\psekowsk\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar:C:\Users\psekowsk\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar:C:\Users\psekowsk\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar:C:\Users\psekowsk\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar:C:\Users\psekowsk\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar:C:\Users\psekowsk\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar:C:\Users\psekowsk\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar:C:\Users\psekowsk\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar:C:\Users\psekowsk\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar:C:\Users\psekowsk\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar:C:\Users\psekowsk\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar:C:\Users\psekowsk\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar:C:\Users\psekowsk\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar org.testng.remote.RemoteTestNG -serport 53909 -protocol json -d C:\Users\psekowsk\Desktop\JAVA projects\liveproject2\test-output C:\Users\psekowsk\AppData\Local\Temp\testng-eclipse-760196223\testng-customsuite.xml
+
+!ENTRY org.eclipse.lsp4e 4 0 2023-08-04 14:11:22.955
+!MESSAGE org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:446)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:282)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy16/jdk.proxy16.$Proxy55.shutdown(Unknown Source)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:444)
+	... 7 more
+Caused by: java.io.IOException: The pipe is being closed
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 12 more
